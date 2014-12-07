@@ -5,9 +5,14 @@ Places that I will keep as an evolving reference to subjects that I helps to be 
 
 Editors
 =======
-Editor Confir
+Editor Config:
+http://editorconfig.org/
 
+Sublime Plugin
 https://github.com/sindresorhus/editorconfig-sublime#readme
+
+VIM Plugin
+https://github.com/editorconfig/editorconfig-vim#readme
 
 
 VIM
