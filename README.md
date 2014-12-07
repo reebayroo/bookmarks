@@ -15,15 +15,9 @@ VIM Plugin
 https://github.com/editorconfig/editorconfig-vim#readme
 
 
-VIM
-===
-
-EditorConfig\
-
-
-
 JS
 ==
+
 Angular Style guides
 --------------------
 https://github.com/johnpapa/angularjs-styleguide
