@@ -1,7 +1,7 @@
 bookmarks
 =========
 
-Places that I will keep as an evolving reference to subjects that I helps to be a better developer 
+Evolving References to subjects that helps me to be a better developer 
 
 Editors
 =======
