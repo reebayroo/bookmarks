@@ -22,3 +22,10 @@ Angular Style guides
 --------------------
 https://github.com/johnpapa/angularjs-styleguide
 
+Craftsmanship
+=============
+
+Code Kata
+---------
+http://codekata.com/
+
